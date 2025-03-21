@@ -1,2 +1,2 @@
-# Vitalix
-Vitalix is an AI-powered liveness face detection system using **YOLOv8** to prevent spoofing attacks. It analyzes micro-expressions, depth, and texture to distinguish real users from fake attempts. Ideal for banking and security, it ensures real-time, accurate, and secure authentication.
+# vitalix
+vitalix Anti-spoofing project is focused on developing a functional identity verification system with face liveness detection and anti-spoofing measures to prevent fraudulent attempts 
